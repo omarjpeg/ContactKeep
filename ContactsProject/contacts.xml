@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Jake</first_name>
+	<last_name>Paul</last_name>
+	<phone_number>09000772462</phone_number>
+	<notes>Spam number!
+</notes>
+	<favourite>true</favourite>
+</contact>
+<contact>
+	<first_name>Carson</first_name>
+	<last_name>Walt</last_name>
+	<phone_number>9428283414</phone_number>
+	<notes>Zoom meeting sunday</notes>
+	<favourite>true</favourite>
+</contact>
+<contact>
+	<first_name>Hank</first_name>
+	<last_name>Robertson</last_name>
+	<phone_number>3023550128</phone_number>
+	<notes>DEA officer</notes>
+	<favourite>true</favourite>
+</contact>
+<contact>
+	<first_name>John</first_name>
+	<last_name>Smith</last_name>
+	<phone_number>08877665554</phone_number>
+	<notes>Call on tuesday</notes>
+	<favourite>true</favourite>
+</contact>
+<contact>
+	<first_name>Kaleb</first_name>
+	<last_name>Simmers</last_name>
+	<phone_number>88426455231</phone_number>
+	<notes>Called in sick</notes>
+	<favourite>false</favourite>
+</contact>
+</contacts>
